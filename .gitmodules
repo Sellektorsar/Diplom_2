@@ -1,0 +1,3 @@
+[submodule "api_tests"]
+	path = api_tests
+	url = ./api_tests
